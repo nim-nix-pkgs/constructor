@@ -11,7 +11,6 @@
   inputs.src-constructor-master.ref   = "refs/heads/master";
   inputs.src-constructor-master.owner = "beef331";
   inputs.src-constructor-master.repo  = "constructor";
-  inputs.src-constructor-master.dir   = "";
   inputs.src-constructor-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
