@@ -42,11 +42,11 @@
     "src-constructor-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1643884961,
-        "narHash": "sha256-Ayspvx9gf/wpBWQSGAvLfWxw/uVaq8jIlDj8ZYGD8ng=",
+        "lastModified": 1648604774,
+        "narHash": "sha256-p4y0gwj2cq86mSeEiMjNObQafzCcu523ADKvEvvcGuw=",
         "owner": "beef331",
         "repo": "constructor",
-        "rev": "12ffdb55baabbd33f33aec490659d74ae8293232",
+        "rev": "58f7264e1f8b229dccadfa1a024db5b4a75cd7bb",
         "type": "github"
       },
       "original": {
