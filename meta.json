@@ -6,7 +6,7 @@
   "description": "Nim macros to aid in object construction including event programming, and constructors.",
   "license": "MIT",
   "refs": [
-    "fatal: expected flush after ref listing",
+    "fatal: unable to access 'https://github.com/beef331/constructor/': SSL connection timeout",
     ""
   ],
   "heads": []
