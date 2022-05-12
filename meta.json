@@ -6,8 +6,37 @@
   "description": "Nim macros to aid in object construction including event programming, and constructors.",
   "license": "MIT",
   "refs": [
-    "fatal: unable to access 'https://github.com/beef331/constructor/': SSL connection timeout",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "constructor",
+      "version": "1.0.3",
+      "author": "Jason Beetham",
+      "desc": "Automates constructor creation",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/master"
+    }
+  ]
 }
